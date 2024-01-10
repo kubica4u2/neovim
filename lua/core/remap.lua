@@ -1,3 +1,3 @@
 vim.g.mapleader = " "
-vim.keymap.set("n", "<leader>h", vim.cmd.Ex)
+vim.keymap.set("n", "<leader>hh", vim.cmd.Ex)
 
